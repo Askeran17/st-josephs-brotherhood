@@ -1,1 +1,1 @@
-# st-josephs-brotherhood
+# The Brotherhood of Saint Joseph
