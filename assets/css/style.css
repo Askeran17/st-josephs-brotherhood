@@ -307,3 +307,148 @@ iframe {
     margin-top: -17px;
     font-size: 15px;
 }
+
+/* Media query: tablets and larger (768px and up) */
+@media screen and (min-width: 768px) {
+    /* Header */
+    nav {
+        display: block;
+        position: relative;
+        box-shadow: none;
+        width: fit-content;
+        padding-right: 1rem;
+    }
+
+    #menu {
+        display: flex;
+  
+    }
+
+    #menu > li {
+        padding-left: 1rem;
+        
+    }
+
+
+
+    
+    
+
+    .nav-toggle-label {
+        display: none;
+    }
+
+    #logo {
+        font-size: 180%;
+        line-height: 37px;
+        margin: 0 0.5rem;
+    }
+
+    /* Main content */
+    main {
+        /* Push main content down to accommodate larger header */
+        margin-top: 79px;
+    }
+
+    /* Josephs disciples part 1*/
+    #josephs-disciples-biography {
+        margin-top: 30px;
+        text-align: justify;
+    }
+
+    #josephs-disciples-biography h2{
+        text-align: center;
+        margin-bottom: -20px;
+    }
+
+    #josephs-disciples-biography h3 {
+        text-align: center;
+        
+    }
+
+    /* Josephs disciples image and content*/
+   
+    #elder-arsenios{
+        margin-top: 30px;
+        
+    }
+    #elder-arsenios-bg {
+        float: left;
+        margin-right: 10px;
+        height: 14vw;
+        width: 14vw;
+        position: relative;
+        margin-top: -30px;
+    }
+
+    #elder-ephraim-of-katunaki {
+        margin-top: 30px;
+    }
+
+    #elder-ephraim-of-katunaki-bg {
+        float: left;
+        margin-right: 10px;
+        height: 14vw;
+        width: 14vw;
+        position: relative;
+        margin-top: -30px;
+
+    }
+
+    #elder-joseph-of-vatopedi {
+        margin-top: 30px;
+
+    }
+    #elder-joseph-of-vatopedi-bg {
+        float: left;
+        margin-right: 10px;
+        height: 14vw;
+        width: 14vw;
+        position: relative;
+        margin-top: -10px;
+
+    }
+
+    #elder-charalampius {
+        margin-top: 30px;
+
+    }
+
+    #elder-charalampius-bg {
+        float: left;
+        margin-right: 10px;
+        height: 14vw;
+        width: 14vw;
+        position: relative;
+        margin-top: -20px;
+
+    }
+
+    #elder-ephraim-of-arizona {
+        margin-top: 30px;
+
+    }
+
+    #elder-ephraim-of-arizona-bg {
+        float: left;
+        margin-right: 10px;
+        height: 14vw;
+        width: 14vw;
+        position: relative;
+        margin-top: -20px;
+    }
+
+    /* Elder advices page */
+
+#elders-advices-image {
+    height: 500px;
+    width: 100%;
+   
+}
+
+/* Footer google maps */
+iframe {
+    height: 700px;
+}
+
+}
