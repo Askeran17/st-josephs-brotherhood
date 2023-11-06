@@ -233,3 +233,33 @@ main {
     top: 10px;
     left: 3px;
 }
+
+/* Elder advices page */
+
+#elders-advices {
+    margin: 10px;
+    font-size: 110%;
+    text-align: justify;
+    
+}
+
+#elders-advices h1 {
+    font-family: 'DM Serif Display', sans-serif; 
+    text-align: center;
+    
+}
+
+#elders-advices h2 {
+font-family: 'Josefin Slab', serif;
+text-align: center;
+}
+
+
+#elders-advices-image {
+    margin-top: -5px;    
+    height: 400px;
+    width: 100%;
+    background: url('../images/the-brotherhood-of-saint-joseph.webp') no-repeat center/cover;
+    position: relative;
+    
+}
