@@ -91,3 +91,145 @@ nav {
     top: 10px;
     
 }
+/* Main content */
+main {
+    background-color: #ffffff;
+    /* Make main element take up any surplus space to push footer down */
+    flex: 1 0 auto;
+    margin-top: 68px;
+}
+
+/* Intro */
+
+#part-1 {
+    margin-top: -45px;    
+    height: 400px;
+    width: 100%;
+    background: url("../images/saint-elder-joseph.webp") no-repeat center left/cover;
+    position: relative;
+    
+}
+
+#introduction {
+    background-color: rgb(255 255 255 / 62%);
+    font-size: 95%;
+    position: absolute;
+    bottom: 29px;
+    width: 100%;
+    min-height: 100px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    color:black;
+}
+
+#introduction h1 {
+    padding: 2px 0 10px;
+}
+
+/* Biography */
+
+#part-2 {
+    background-color: #ffffff;
+    position: relative;
+    margin-top: -30px;
+    
+}
+
+#josephs-biography {
+    background-color: inherit;
+    margin: 10px;
+    font-size: 110%;
+    text-align: center;
+    margin-top: -40px;
+}
+
+#josephs-biography h2 {
+    font-family: 'DM Serif Display', sans-serif; 
+    
+}
+
+#josephs-disciples-biography {
+    background-color: inherit;
+    margin: 10px;
+    font-size: 110%;
+    text-align: center;
+}
+
+#josephs-disciples-biography h2 {
+    font-family: 'DM Serif Display', sans-serif; 
+    text-align: center;
+    
+}
+
+#elder-arsenios-bg {
+    
+    background: url('../images/elder-arsenios.webp') no-repeat top center /cover;
+    height: 90vw;
+    width: 90vw;
+    margin-bottom: 20px;
+    /* Makes the square image into a circle */
+    border-radius: 50%;
+    max-width: 300px;
+    max-height: 300px;
+    position: relative;
+    top: 10px;
+    left: 3px;
+    
+    
+}
+
+#elder-ephraim-of-katunaki-bg {
+    background: url('../images/elder-ephraim-of-katunaki.webp') no-repeat top center / cover;
+    height: 90vw;
+    width: 90vw;
+    margin-bottom: 20px;
+    /* Makes the square image into a circle */
+    border-radius: 50%;
+    max-width: 300px;
+    max-height: 300px;
+    position: relative;
+    top: 10px;
+    left: 3px;
+}
+
+#elder-joseph-of-vatopedi-bg {
+    background: url('../images/elder-joseph-of-vatopedi.webp') no-repeat top center / cover;
+    height: 90vw;
+    width: 90vw;
+    margin-bottom: 20px;
+    /* Makes the square image into a circle */
+    border-radius: 50%;
+    max-width: 300px;
+    max-height: 300px;
+    position: relative;
+    top: 10px;
+    left: 3px;
+}
+
+#elder-charalampius-bg {
+    background: url('../images/elder-charalampius.webp') no-repeat top center / cover;
+    height: 90vw;
+    width: 90vw;
+    margin-bottom: 20px;
+    /* Makes the square image into a circle */
+    border-radius: 50%;
+    max-width: 300px;
+    max-height: 300px;
+    position: relative;
+    top: 10px;
+    left: 3px;
+}
+
+#elder-ephraim-of-arizona-bg {
+    background: url('../images/elder-ephraim-of-arizona.webp') no-repeat top center / cover;
+    height: 90vw;
+    width: 90vw;
+    margin-bottom: 20px;
+    /* Makes the square image into a circle */
+    border-radius: 50%;
+    max-width: 300px;
+    max-height: 300px;
+    position: relative;
+    top: 10px;
+    left: 3px;
+}
