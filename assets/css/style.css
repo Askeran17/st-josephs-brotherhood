@@ -161,7 +161,7 @@ main {
     
 }
 
-#elder-arsenios-bg {
+.elder-arsenios-bg {
     
     background: url('../images/elder-arsenios.webp') no-repeat top center /cover;
     height: 90vw;
@@ -178,7 +178,7 @@ main {
     
 }
 
-#elder-ephraim-of-katunaki-bg {
+.elder-ephraim-of-katunaki-bg {
     background: url('../images/elder-ephraim-of-katunaki.webp') no-repeat top center / cover;
     height: 90vw;
     width: 90vw;
@@ -192,7 +192,7 @@ main {
     left: 3px;
 }
 
-#elder-joseph-of-vatopedi-bg {
+.elder-joseph-of-vatopedi-bg {
     background: url('../images/elder-joseph-of-vatopedi.webp') no-repeat top center / cover;
     height: 90vw;
     width: 90vw;
@@ -206,7 +206,7 @@ main {
     left: 3px;
 }
 
-#elder-charalampius-bg {
+.elder-charalampius-bg {
     background: url('../images/elder-charalampius.webp') no-repeat top center / cover;
     height: 90vw;
     width: 90vw;
@@ -220,7 +220,7 @@ main {
     left: 3px;
 }
 
-#elder-ephraim-of-arizona-bg {
+.elder-ephraim-of-arizona-bg {
     background: url('../images/elder-ephraim-of-arizona.webp') no-repeat top center / cover;
     height: 90vw;
     width: 90vw;
@@ -308,6 +308,180 @@ iframe {
     font-size: 15px;
 }
 
+/* Small devices (phones, 335px and up) */
+@media only screen and (min-width: 335px) {
+
+    /* Josephs disciples image*/
+    .elder-arsenios-bg {
+        height: 90vw;
+        width: 90vw;
+        position: relative;
+        margin: auto;
+        margin-bottom: 20px;
+        
+    }
+    
+    .elder-ephraim-of-katunaki-bg {
+        height: 80vw;
+        width: 80vw;
+        position: relative;
+        margin: auto;
+        margin-bottom: 20px;
+    }
+    
+    .elder-joseph-of-vatopedi-bg {
+        height: 80vw;
+        width: 80vw;
+        position: relative;
+        margin: auto;
+        margin-bottom: 20px;
+    }
+    
+    .elder-charalampius-bg {
+        height: 80vw;
+        width: 80vw;
+        position: relative;
+        margin: auto;
+        margin-bottom: 20px;
+    }
+    
+    .elder-ephraim-of-arizona-bg {
+        height: 80vw;
+        width: 80vw;
+        position: relative;
+        margin: auto;
+        margin-bottom: 20px;
+    }
+
+
+}
+
+/* Small devices (phones, 464px and up) */
+@media only screen and (min-width: 464px) {
+
+
+    .burger {
+        position: relative;
+        top: 5px;
+        
+
+        
+    }
+
+    #part-1 {
+        margin-top: -71px;    
+    }
+
+    
+
+
+    /* Josephs disciples image*/
+    .elder-arsenios-bg {
+        height: 90vw;
+        width: 90vw;
+        position: relative;
+        margin: auto;
+        margin-bottom: 20px;
+        
+    }
+    
+    .elder-ephraim-of-katunaki-bg {
+        height: 80vw;
+        width: 80vw;
+        position: relative;
+        margin: auto;
+        margin-bottom: 20px;
+    }
+    
+    .elder-joseph-of-vatopedi-bg {
+        height: 80vw;
+        width: 80vw;
+        position: relative;
+        margin: auto;
+        margin-bottom: 20px;
+    }
+    
+    .elder-charalampius-bg {
+        height: 80vw;
+        width: 80vw;
+        position: relative;
+        margin: auto;
+        margin-bottom: 20px;
+    }
+    
+    .elder-ephraim-of-arizona-bg {
+        height: 80vw;
+        width: 80vw;
+        position: relative;
+        margin: auto;
+        margin-bottom: 20px;
+    }
+
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+
+
+    .burger {
+        position: relative;
+        top: 5px;
+        
+    }
+
+    #part-1 {
+        margin-top: -71px
+
+    }
+
+ 
+     /* Josephs disciples image*/
+     .elder-arsenios-bg {
+         height: 90vw;
+         width: 90vw;
+         position: relative;
+         margin: auto;
+         margin-bottom: 20px;
+         
+     }
+     
+     .elder-ephraim-of-katunaki-bg {
+         height: 80vw;
+         width: 80vw;
+         position: relative;
+         margin: auto;
+         margin-bottom: 20px;
+     }
+     
+     .elder-joseph-of-vatopedi-bg {
+         height: 80vw;
+         width: 80vw;
+         position: relative;
+         margin: auto;
+         margin-bottom: 20px;
+     }
+     
+     .elder-charalampius-bg {
+         height: 80vw;
+         width: 80vw;
+         position: relative;
+         margin: auto;
+         margin-bottom: 20px;
+     }
+     
+     .elder-ephraim-of-arizona-bg {
+         height: 80vw;
+         width: 80vw;
+         position: relative;
+         margin: auto;
+         margin-bottom: 20px;
+     }
+
+
+
+}
+
+
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
     /* Header */
@@ -330,10 +504,6 @@ iframe {
     }
 
 
-
-    
-    
-
     .nav-toggle-label {
         display: none;
     }
@@ -348,6 +518,11 @@ iframe {
     main {
         /* Push main content down to accommodate larger header */
         margin-top: 79px;
+    }
+
+    #part-1 {
+        margin-top: -45px
+
     }
 
     /* Josephs disciples part 1*/
@@ -372,7 +547,7 @@ iframe {
         margin-top: 30px;
         
     }
-    #elder-arsenios-bg {
+    .elder-arsenios-bg {
         float: left;
         margin-right: 10px;
         height: 14vw;
@@ -385,8 +560,8 @@ iframe {
         margin-top: 30px;
     }
 
-    #elder-ephraim-of-katunaki-bg {
-        float: left;
+    .elder-ephraim-of-katunaki-bg {
+       float: left;
         margin-right: 10px;
         height: 14vw;
         width: 14vw;
@@ -399,7 +574,7 @@ iframe {
         margin-top: 30px;
 
     }
-    #elder-joseph-of-vatopedi-bg {
+    .elder-joseph-of-vatopedi-bg {
         float: left;
         margin-right: 10px;
         height: 14vw;
@@ -414,7 +589,7 @@ iframe {
 
     }
 
-    #elder-charalampius-bg {
+    .elder-charalampius-bg {
         float: left;
         margin-right: 10px;
         height: 14vw;
@@ -429,7 +604,7 @@ iframe {
 
     }
 
-    #elder-ephraim-of-arizona-bg {
+    .elder-ephraim-of-arizona-bg {
         float: left;
         margin-right: 10px;
         height: 14vw;
@@ -471,8 +646,8 @@ iframe {
 
     /* Josephs disciples image */
    
-    #elder-arsenios-bg {
-        float: left;
+    .elder-arsenios-bg {
+        
         margin-right: 10px;
         height: 10vw;
         width: 10vw;
@@ -480,8 +655,8 @@ iframe {
         margin-top: -20px;
     }
 
-    #elder-ephraim-of-katunaki-bg {
-        float: left;
+    .elder-ephraim-of-katunaki-bg {
+        
         margin-right: 10px;
         height: 10vw;
         width: 10vw;
@@ -490,8 +665,8 @@ iframe {
 
     }
 
-    #elder-joseph-of-vatopedi-bg {
-        float: left;
+    .elder-joseph-of-vatopedi-bg {
+        
         margin-right: 10px;
         height: 10vw;
         width: 10vw;
@@ -500,8 +675,8 @@ iframe {
 
     }
 
-    #elder-charalampius-bg {
-        float: left;
+    .elder-charalampius-bg {
+       
         margin-right: 10px;
         height: 10vw;
         width: 10vw;
@@ -510,8 +685,8 @@ iframe {
 
     }
 
-    #elder-ephraim-of-arizona-bg {
-        float: left;
+    .elder-ephraim-of-arizona-bg {
+        
         margin-right: 10px;
         height: 10vw;
         width: 10vw;
@@ -564,7 +739,7 @@ iframe {
     #part-1 {
         height: 700px;
         width: 100%;
-        margin-top: -50px;
+        margin: -47px 0 -70px 0;
         
     }
 
@@ -604,82 +779,55 @@ iframe {
 
     #josephs-disciples-biography h3 {
         text-align: center;
-        
-    }
-
-    /* Josephs disciples H3*/
-    #elder-arsenios h3{
-        padding-right: 910px;
-    
-    }
-
-    #elder-ephraim-of-katunaki h3{
-        padding-right: 752px;
-    }
-
-    #elder-joseph-of-vatopedi h3{
-        padding-right: 785px;
-    }
-
-    #elder-charalampius h3{
-        padding-right: 840px;
-
-    }
-
-    #elder-ephraim-of-arizona h3 {
-        padding-right: 768px;
-
-    }
-
-   
+        }
     /* Josephs disciples image */
    
-    #elder-arsenios-bg {
-        float: left;
+    .elder-arsenios-bg {
+       
         margin-right: 10px;
         height: 11vw;
         width: 11vw;
         position: relative;
-        margin-top: -60px;
+        margin-top: -45px;
     }
 
-    #elder-ephraim-of-katunaki-bg {
-        float: left;
+    .elder-ephraim-of-katunaki-bg {
+        
         margin-right: 10px;
         height: 11vw;
         width: 11vw;
         position: relative;
-        margin-top: -40px;
-
-    }
-
-    #elder-joseph-of-vatopedi-bg {
-        float: left;
-        margin-right: 10px;
-        height: 11vw;
-        width: 11vw;
-        position: relative;
-        margin-top: -30px;
+        margin-top: -35px;
 
     }
 
-    #elder-charalampius-bg {
-        float: left;
+    .elder-joseph-of-vatopedi-bg {
+        
         margin-right: 10px;
         height: 11vw;
         width: 11vw;
         position: relative;
-        margin-top: -30px;
+        margin-top: -25px;
 
     }
 
-    #elder-ephraim-of-arizona-bg {
-        float: left;
+    .elder-charalampius-bg {
+        
         margin-right: 10px;
         height: 11vw;
         width: 11vw;
         position: relative;
-        margin-top: -20px;
+        margin-top: -25px;
+
+    }
+
+    .elder-ephraim-of-arizona-bg {
+
+        margin-right: 10px;
+        height: 11vw;
+        width: 11vw;
+        position: relative;
+        margin-top: -25px;
     }
 
 /* Elder advices page */
