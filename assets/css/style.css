@@ -419,6 +419,7 @@ iframe {
 
 }
 
+
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 600px) {
 
@@ -832,7 +833,7 @@ iframe {
 
 /* Elder advices page */
 #elders-advices {
-    margin-top: 10px;
+    margin-top: 30px;
     font-size: 150%;
 }
 
@@ -844,7 +845,7 @@ iframe {
     /* Information page */
   #information {
     font-size: 150%;
-    margin-top: 10px;
+    margin-top: 30px;
 }
 
     /*  Copyright */
