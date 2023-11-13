@@ -6,7 +6,7 @@ On Mount Athos in the first half of the 20th century, a group of people rallied 
 
 Elder Joseph, who is also called the Caveman, Hesychast and Silencer, took upon himself the great work of leading these people, with the help of sacred silence, to the gates of the Kingdom of Heaven, contained within each person (Luke 17:21).
 
-You can check out the website [here] (https://askeran17.github.io/st-josephs-brotherhood/)!
+You can check out the website [here](https://askeran17.github.io/st-josephs-brotherhood/)!
 
 ## Adaptability on a variety of screen sizes
 
