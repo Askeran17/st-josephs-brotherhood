@@ -43,7 +43,7 @@ You can check out the website [here](https://askeran17.github.io/st-josephs-brot
 
 - On the second page I posted a general photo of the Brotherhood of St. Joseph, and below are the elders’ advice on spiritual life.
 ![Image of brotherhood](assets/images/image-of-brotherhood.png)
-![Text of elders advices](assets/images/text-of-elders-advices.png)
+![Text of elders advices](assets/images/text-elders-advices.png)
 
 - __Last page__
 
