@@ -76,6 +76,10 @@ On the main page in the section biography of the disciples of St. Joseph, I want
 
   ## Technologies Used
 
+### Workspace
+
+I did all the work in Codeanywhere, and at the same time I used VSCode as a draft and sometimes wrote the code there, and then copied it from there and pasted it into Codeanywhere.
+
 ### Languages Used
 
 HTML, CSS, Javascript
@@ -117,7 +121,7 @@ I was inspired by the Love Running project at the Code Institute and took the co
 
 ### Content 
 
-- Since there is very little information in the English-language segment about Elder Joseph and his brotherhood, I took information from Russian-language sites (azbyka.ru and pravoslavie.ru). And I translated it into English using Google-translate; I corrected the places in the translation that were inaccurate. I used ready-made text from Russian sites, because the biography, as well as the advice of the elders, needed to be conveyed exactly in the form in which they exist. Therefore, I did not invent these texts myself, but had to convey them to the reader exactly in the form in which they exist.
+- Since there is very little information in the English-language segment about Elder Joseph and his brotherhood, I took information from Russian-language sites (azbyka.ru and pravoslavie.ru). And I translated it into English using Google-translate; I know Russian well and therefore I didn’t just copy and paste, but checked and corrected the places in the translation that were inaccurate. I used ready-made text from Russian sites, because the biography, as well as the advice of the elders, needed to be conveyed exactly in the form in which they exist. Therefore, I did not invent these texts myself, but had to convey them to the reader exactly in the form in which they exist.
 
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 
