@@ -12,6 +12,10 @@ You can check out the website [here](https://askeran17.github.io/st-josephs-brot
 
 ![The Brotherhood of Saint Joseph shown on a variety of screen sizes](assets/images/adaptive-size.png)
 
+## Design
+I used wireframe 
+![Twireframe](assets/images/wireframe.png)
+
 ## Features
 
 ### Existing Features
