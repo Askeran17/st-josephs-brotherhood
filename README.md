@@ -14,13 +14,14 @@ You can check out the website [here](https://askeran17.github.io/st-josephs-brot
 
 ## Design
 I used wireframe to draw a page layout.
+
 ![Wireframe](assets/images/wireframe.png)
 
 ## Features
 
 ### Existing Features
 
-- __Header__
+__Header__
 
 - The header has an adaptive navigation bar on the right. There are three links there: home, advice from the elders and information. The visitor can easily navigate through these links thanks to the responsive bar. Also, in the mobile or medium screen extension version, there will be a “hamburger” icon on the right side of the adaptive panel, which means that the same links are hidden behind it. This is very convenient and allows you to take up less page space.
 
@@ -30,7 +31,7 @@ I used wireframe to draw a page layout.
 
 - On the left side of header there is a logo that can be clicked and it will return the visitor to the main page.
 
-- __Main content__
+__Main content__
 
 - On the first page the visitor can see a large image of the holy elder Joseph and his quote on top of the picture itself.
 ![Large image St.Joseph](assets/images/large-image-st-joseph.png)
@@ -38,18 +39,18 @@ I used wireframe to draw a page layout.
 - The following is a biography of St. Joseph and his disciples. Photos of students are beautifully circled and placed on the left side of the text. For the circle I used border-radius property and others which you can see more in the style.css.
 ![Circled images Josephs disciples](assets/images/disciples-image-radius.png)
 
-- __Footer__
+__Footer__
 
 - In the footer I have placed a link to YouTube, where the visitor can watch a film about St. Joseph. I did not insert a link to the video inside the main content, but decided to place it in the footer, since it is convenient, does not take up much space and just looks beautiful with the YouTube button. The link opens in a separate tab and the visitor is taken to YouTube, while the site remains open. It is very comfortable. And under YouTube button I placed copyright.
 ![Footer](assets/images/footer.png)
 
-- __Second page__
+__Second page__
 
 - On the second page I posted a general photo of the Brotherhood of St. Joseph, and below are the elders’ advice on spiritual life.
 ![Image of brotherhood](assets/images/image-of-brotherhood.png)
 ![Text of elders advices](assets/images/text-elders-advices.png)
 
-- __Last page__
+__Last page__
 
 - On the last page I posted information for pilgrims to the holy Mount Athos, which office they can contact before going there. He also indicated the address of the bureau itself and its opening hours.
 ![Information for pilgrims](assets/images/information-page.png)
