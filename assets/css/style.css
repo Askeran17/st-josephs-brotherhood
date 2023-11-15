@@ -123,7 +123,7 @@ main {
     padding: 2px 0 10px;
 }
 
-/* Biography */
+/* Biography by saint Joseph and his disciples */
 #part-2 {
     background-color: #ffffff;
     position: relative;
@@ -157,6 +157,7 @@ main {
     
 }
 
+/* Josephs disciples images */
 .elder-arsenios-bg {
     
     background: url('../images/elder-arsenios.webp') no-repeat top center /cover;
@@ -300,7 +301,7 @@ iframe {
 /* Small devices (phones, 335px and up) */
 @media only screen and (min-width: 335px) {
 
-    /* Josephs disciples image*/
+    /* Josephs disciples images*/
     .elder-arsenios-bg {
         height: 90vw;
         width: 90vw;
@@ -348,7 +349,7 @@ iframe {
 /* Small devices (phones, 464px and up) */
 @media only screen and (min-width: 464px) {
 
-
+   /* Nav */
     .burger {
         position: relative;
         top: 5px;
@@ -357,6 +358,7 @@ iframe {
         
     }
 
+    /* Main content */
     #part-1 {
         margin-top: -71px;    
     }
@@ -412,20 +414,21 @@ iframe {
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 600px) {
 
-
+    /* Nav */
     .burger {
         position: relative;
         top: 5px;
         
     }
 
+    /* Main content */
     #part-1 {
         margin-top: -71px
 
     }
 
  
-     /* Josephs disciples image*/
+     /* Josephs disciples images */
      .elder-arsenios-bg {
          height: 90vw;
          width: 90vw;
@@ -530,7 +533,7 @@ iframe {
         
     }
 
-    /* Josephs disciples image and content*/
+    /* Josephs disciples images and content*/
    
     #elder-arsenios{
         margin-top: 30px;
@@ -633,7 +636,7 @@ iframe {
         
     }
 
-    /* Josephs disciples image */
+    /* Josephs disciples images */
    
     .elder-arsenios-bg {
         
@@ -769,7 +772,8 @@ iframe {
     #josephs-disciples-biography h3 {
         text-align: center;
         }
-    /* Josephs disciples image */
+    
+ /* Josephs disciples images */
    
     .elder-arsenios-bg {
        
