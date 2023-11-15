@@ -67,6 +67,31 @@ If something didn't work correctly, I also used Google's developer tools to twea
 
 I've thoroughly tested each page using Google Chrome's developer tools to ensure each page is responsive on a variety of screen sizes and devices.
 
+### Lighthouse
+
+I used Lighthouse within the Chrome Developer Tools to test the performance, accessibility, best practices and SEO of the website.
+
+### Desktop Results
+
+All pages showed good scores.
+
+![Index.html](assets/images/desktop-index.png)
+
+![Elders-advices.html](assets/images/desktop-elders-advices.png)
+
+![Information.html](assets/images/desktop-information.png)
+
+### Mobile Results
+
+All pages showed good scores.
+
+![Index.html](assets/images/mobile-index.png)
+
+![Elders-advices.html](assets/images/mobile-elders-advices.png)
+
+![Information.html](assets/images/mobile-information.png)
+
+
 ### Validator Testing 
 
 - HTML
