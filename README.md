@@ -2,6 +2,8 @@
 
 The Brotherhood of Saint Joseph is site which is dedicated to the saint of our days and his disciples. 
 
+On this site a person will also find the answer to the question of how to deal with bad thoughts.
+
 On Mount Athos in the first half of the 20th century, a group of people rallied around one monk, united by a common idea: by following a special system of mystical spiritual exercises, to purify one’s thoughts and, having achieved spiritual perfection, to know God.
 
 Elder Joseph, who is also called the Caveman, Hesychast and Silencer, took upon himself the great work of leading these people, with the help of sacred silence, to the gates of the Kingdom of Heaven, contained within each person (Luke 17:21).
@@ -91,6 +93,14 @@ All pages showed good scores.
 
 ![Information.html](assets/images/mobile-information.png)
 
+### Manual Testing
+
+__Visitors__
+
+| Goal | Has the goal been achieved? |
+| :--- | :--- |
+| I want to find advice from spiritual saints on how to deal with bad thoughts. | This site will introduce the visitor to holy people who lived just recently; these people will help a person with their advice on how to overcome bad thoughts.
+| The site must be responsive. | The site is adaptive and works correctly on all devices.
 
 ### Validator Testing 
 
@@ -153,9 +163,9 @@ I was inspired by the Love Running project at the Code Institute and took the co
 
 - Since there is very little information in the English-language segment about Elder Joseph and his brotherhood, I took information from Russian-language sites (azbyka.ru and pravoslavie.ru). And I translated it into English using Google-translate; I know Russian well and therefore I didn’t just copy and paste, but checked and corrected the places in the translation that were inaccurate. I used ready-made text from Russian sites, because the biography, as well as the advice of the elders, needed to be conveyed exactly in the form in which they exist. Therefore, I did not invent these texts myself, but had to convey them to the reader exactly in the form in which they exist.
 
-- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+- The icons in the footer and in the second page were taken from [Font Awesome](https://fontawesome.com/)
 
 ### Media
 
-- The images in site I tooke from open source, i.e. google.
+- The images in site I took from open source, i.e. google.
 
